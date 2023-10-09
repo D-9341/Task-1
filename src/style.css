@@ -1,0 +1,31 @@
+.hdr {
+    border-bottom-style: solid;
+    border-width: 2px; 
+    text-align: center;
+}
+
+.n {
+    width: 900px;
+    margin-left: 450px;
+}
+
+.n:hover {
+    outline-style: solid;
+}
+
+.m {
+    background: repeating-linear-gradient(45deg, orange, red);
+}
+
+.hobbies {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+img {
+    display: flex;
+    align-items: center;
+}
